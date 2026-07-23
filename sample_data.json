@@ -28,10 +28,11 @@
         "email": "sneha@gmail.com"
     },
     {
-        "id": 6,
-        "name": "Sanjana",
-        "age": 18,
-        "course": "Data Science",
-        "email": "sanjanavenkatesh20@gmail.com"
+        "id": 5,
+        "name": "Arjun Kumar",
+        "age": 21,
+        "course": "Python",
+        "email": "arjun@gmail.com"
     }
+
 ]
