@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "age": 21,
+        "course": "AI",
+        "email": "rahul@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Priya Verma",
+        "age": 22,
+        "course": "Data Science",
+        "email": "priya@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Aman Singh",
+        "age": 20,
+        "course": "Web Development",
+        "email": "aman@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "Sneha Reddy",
+        "age": 23,
+        "course": "AI",
+        "email": "sneha@gmail.com"
+    },
+    {
+        "id": 6,
+        "name": "Sanjana",
+        "age": 18,
+        "course": "Data Science",
+        "email": "sanjanavenkatesh20@gmail.com"
+    }
+]
